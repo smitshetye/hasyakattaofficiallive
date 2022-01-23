@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="https://smitshetye.github.io/hasyakattaofficiallive" version="1.0.0" viewmodes="maximized">
+    <tizen:application id="HTnG9Pf7Th.HasyaKattaOfficialLive" package="HTnG9Pf7Th" required_version="2.1"/>
+    <author href="https://smitshetye.github.io" email="smitshetye34@gmail.com">Smit Shetye</author>
+    <content src="index.html"/>
+    <description>Hasya Katta Official Live App made by Smit Shetye.</description>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="hasyakattaofficiallogo.png"/>
+    <license href="https://smitshetye.github.io/hasyakattaofficiallive/license/">Smit Shetye Hasya Katta Official License</license>
+    <name>Hasya Katta Official Live</name>
+    <tizen:profile name="tv-samsung"/>
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>
